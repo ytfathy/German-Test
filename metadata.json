@@ -1,0 +1,6 @@
+{
+  "name": "Autobahn Deutsch - German Vocabulary Car Racing",
+  "description": "High-speed arcade car racing game teaching German vocabulary with real-time voice pronunciation feedback, curriculum-based levels, and global leaderboards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
